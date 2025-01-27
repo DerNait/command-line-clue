@@ -11,6 +11,7 @@
 - [ ] Leather Gloves
 
 ## Notes
-*Use this space to record your findings and deductions...*
+Clue #1:
+While making their rounds, The Police Officer noticed the pond door was slightly ajar.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
