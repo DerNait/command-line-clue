@@ -44,4 +44,8 @@ Clue #5:
 Investigation Update:
 A security guard mentions hearing noises coming from the offices.
 
-Location of the crime is still unknown - the room must have been empty when it happened...
+Observations:
+Evidence found at offices/records
+
+Clue #6:
+The crime scene took place at offices/records room!
