@@ -35,4 +35,13 @@ Investigation Update:
 
 A cleaning schedule shows the town hall was cleaned after this spot.
 
+Observations:
+In town hall:
+Founded the Brass Candlestick object 
+and The Journalist
+
+Clue #5:
+Investigation Update:
+A security guard mentions hearing noises coming from the offices.
+
 Location of the crime is still unknown - the room must have been empty when it happened...
