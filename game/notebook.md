@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Librarian
 - [ ] The Journalist
-- [ ] The Gardener
+- [x] The Gardener
 
 ## Weapons
 - [ ] Bronze Trophy
@@ -25,5 +25,14 @@ The classrooms were empty.
 
 Clue #3:
 Maybe we should check back in the shops.
+
+Observations:
+The gardener was in the shops.
+
+Clue #4:
+
+Investigation Update:
+
+A cleaning schedule shows the town hall was cleaned after this spot.
 
 Location of the crime is still unknown - the room must have been empty when it happened...
