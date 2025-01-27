@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Librarian
-- [ ] The Journalist
+- [x] The Journalist
 - [x] The Gardener
 
 ## Weapons
